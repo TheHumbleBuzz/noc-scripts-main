@@ -1,3 +1,6 @@
+# Credit goes to https://github.com/aimanaisha 
+# who added it originaly to https://github.com/metafy-social/python-scripts/tree/master
+
 RULES OF THE GAME:
 
 1. The goal of the game is to add up your cards to the largest number without going over 21.
