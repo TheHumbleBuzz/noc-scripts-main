@@ -12,6 +12,8 @@ ActiveDirectory (Get Stale Objects from AD. Log or Delete options)
 
 Internet-Speed-Test (General Speed test for workstations)
 
+Group Policy Object (GPO): Scripts related to GPOs. I have one that will remove all profiles older that a set time fromt he local PC. Tested on windows 11. Able to exclude accounts.
+
 Network Scanner (The script will send ARP requests to the specified IP range and display the list of available devices along with their IP and MAC addresses.)
 
 Phonenumber Tracker
